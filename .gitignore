@@ -1,0 +1,16 @@
+*.class
+*.cache
+*.cpp
+*.d
+*.so
+*.mk
+*.jou
+*.bin
+*.log
+*.v
+
+simWorkspace
+.idea
+.bsp
+target
+tmp
