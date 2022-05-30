@@ -15,3 +15,11 @@ libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.9" % Test
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.9"
 
 fork := true
+
+
+//breeze
+libraryDependencies += "org.scalanlp" %% "breeze" % "1.0"
+
+
+//rings
+libraryDependencies += "cc.redberry" %% "rings.scaladsl" % "2.5.7"

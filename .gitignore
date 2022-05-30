@@ -9,6 +9,8 @@
 *.log
 *.v
 
+draft.sc
+
 simWorkspace
 .idea
 .bsp
